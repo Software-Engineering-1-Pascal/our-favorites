@@ -1,4 +1,4 @@
-Macaroni And Cheese
-Hot Lemon Pepper Wings
-Cinnamon Rolls
-Chicken Alfredo
+-Cinnamon Rolls [sweets]
+-Chicken Alfredo [pasta] [meat]
+-Hot Lemon Pepper Wings [meat]
+-Macaroni And Cheese [pasta]
